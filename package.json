@@ -4,6 +4,7 @@
     "description": "hello world",
     "main": "app.js",
     "scripts": {
+        "start": "node app.js",
         "test": "echo \"no test specified\""
     },
     "author": "rogeshen",
